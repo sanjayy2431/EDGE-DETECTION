@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+## Name : Sanjay V
+## Reg No : 212223230188
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -18,8 +20,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 ## PROGRAM:
 ```
- DEVELOPED BY:SIVABALAN S
- REGISTER NUMBER: 212222240100
+ DEVELOPED BY:Sanjay V
+ REGISTER NUMBER: 212223230188
 ```
 ## IMPORT PACKAGES AND LOAD IMAGES
   ```python
